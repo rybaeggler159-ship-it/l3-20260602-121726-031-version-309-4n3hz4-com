@@ -1,0 +1,19 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_counts": {
+    "featured": 200,
+    "city-love": 200,
+    "suspense": 200,
+    "action": 200,
+    "comedy-family": 200,
+    "history": 200,
+    "fantasy": 200,
+    "youth": 200,
+    "overseas": 200,
+    "latest": 200
+  },
+  "video_sources": 20,
+  "generated_at": "2026-05-24T16:52:31"
+}
